@@ -1,2 +1,1 @@
-Pastikan menambahkan pustaka pada program yang hendak dijalankn
-/n program diatas merupakan dokumentasi latihan saya saat membuat simulasi menggunakan Python atau MATLAB
+Pastikan menambahkan pustaka pada program yang hendak dijalankn, rogram diatas merupakan dokumentasi latihan saya saat membuat simulasi menggunakan Python atau MATLAB
